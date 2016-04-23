@@ -1,5 +1,0 @@
-blue_octocat.txt
-a third txt file
-this is another change to a file
-This is a change created on the remote repository
-

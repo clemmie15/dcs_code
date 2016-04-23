@@ -1,2 +1,0 @@
-red_octocat.txt
-this is another file
