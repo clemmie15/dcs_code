@@ -1,3 +1,4 @@
 octocat.txt
 this is my new text file
 i'm using it to test my Git skills
+this is a change to test a diff command

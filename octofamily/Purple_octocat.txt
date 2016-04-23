@@ -1,0 +1,2 @@
+Purple_octocat.txt
+adding a file to test a second diff command
